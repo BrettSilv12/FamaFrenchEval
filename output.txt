@@ -1,0 +1,48 @@
+********************
+COKE Raw Data
+********************
+{'Investment': {'Asset Growth': 2020-12-31         NaN
+2021-12-31    0.069239
+2022-12-31    0.076613
+2023-12-31    0.156191
+Name: Total Assets, dtype: float64,
+                'Mean Growth': 0.10068098838188533,
+                'Total Assets': 2020-12-31    3222450000.0
+2021-12-31    3445570000.0
+2022-12-31    3709545000.0
+2023-12-31    4288942000.0
+Name: Total Assets, dtype: object},
+ 'Market Beta': -0.7568814108300996,
+ 'Profitability': {'Net Income': 2023-12-31    408375000.0
+2022-12-31    430158000.0
+2021-12-31    189580000.0
+2020-12-31    172493000.0
+Name: Net Income, dtype: object,
+                   'Operating Income': 2023-12-31    721655000.0
+2022-12-31    641047000.0
+2021-12-31    439171000.0
+2020-12-31    313378000.0
+Name: Operating Income, dtype: object,
+                   'Return on Assets': 0.1162,
+                   'Return on Equity': 0.37733},
+ 'Size': {'Enterprise Value': 11724898560, 'Market Cap': 11276309504},
+ 'Value': {'Book to Market': 0.10088618781317196,
+           'Price to Book': 8.775405,
+           'Price to Earnings': 22.326973,
+           'Price to Sales': 1.6621485}}
+********************
+
+
+
+********************
+COKE Scored Data
+********************
+{'Investment Score': 0.10068098838188533,
+ 'Market Beta Score': -0.7568814108300996,
+ 'Profitability Score': 0.49353,
+ 'Size Score': -0.667215363985847,
+ 'Value Score': -0.17195292213302737}
+********************
+
+
+
