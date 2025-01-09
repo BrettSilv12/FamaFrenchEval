@@ -228,7 +228,7 @@ class StockFF:
 
 
     def evaluateSize(self):
-        market_cap = self.size['Market Cap']
+        market_cap = self.size['Market Cap'] #test
         enterprise_value = self.size['Enterprise Value']
         # Compute percentile rank in market
         size_percentile = stats.percentileofscore([
